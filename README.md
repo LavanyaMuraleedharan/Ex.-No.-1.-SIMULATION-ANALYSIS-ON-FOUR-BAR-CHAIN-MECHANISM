@@ -56,8 +56,8 @@
 ![275326563-703d6f1a-6de3-4936-91e7-054e136a0026](https://github.com/LavanyaMuraleedharan/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/120103862/91df548e-7abe-40c8-a01d-1ca16bccde05)
 
 
-### Name:
-### Register Number: 
+### Name: LAVANYA M
+### Register Number: 212222110021
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
